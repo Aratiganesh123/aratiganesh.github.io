@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "Projects"
-    url: /projects/
+    url: /_portfolio/
 
   - title: "Work Experience"
-    url: /Users/aratiganesh/Documents/PersonalDocs/aratiganesh.github.io/_portfolio/portfolio-2.html 
+    url: /_portfolio/
     
   - title: "CV"
-    url: /files/Arati_Resume_12_2023-1.pdf
+    url: /files/paper1.pdf
     
